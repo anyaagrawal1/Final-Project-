@@ -1,6 +1,6 @@
-# Project Name
+# Clothing Classification 
 
- Add short description of project here > 
+ Add short description of project here > This project will identify what type of clothing (t_shirt, longsleeve, shorts, pants) is set in front of the camera using Jupyter Notebook. 
 
 ![add image descrition here](direct image link here)
 
